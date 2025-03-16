@@ -13,6 +13,11 @@ Desenvolver um modelo de machine learning capaz de:
 - Fornecer insights acionáveis para estratégias de retenção
 - Implementar uma solução em produção para uso contínuo
 
+
+## 💻 Notebook
+
+[Previsão de Rotatividade (Churn) de Cartão de Crédito](https://github.com/alexassuncaodados/analise-credito/blob/main/Projeto%20An%C3%A1lise%20de%20Dados%20Python%20-%20an%C3%A1lise%20de%20cr%C3%A9dito.ipynb)
+
 ## Ações
 
 ### 1. Análise Exploratória de Dados
