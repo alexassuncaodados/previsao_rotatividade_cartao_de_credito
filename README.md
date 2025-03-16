@@ -84,7 +84,6 @@ Desenvolver um modelo de machine learning capaz de:
 - Scikit-learn
 - LightGBM
 - Flask
-- Streamlit
 - Pandas
 - NumPy
 - Matplotlib
