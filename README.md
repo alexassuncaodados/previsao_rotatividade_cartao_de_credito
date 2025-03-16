@@ -90,7 +90,7 @@ Desenvolver um modelo de machine learning capaz de:
 - Seaborn
 
 
-```
+
 
 ## Próximos Passos que poderão ser analisados
 1. Implementação de monitoramento de drift do modelo
@@ -100,7 +100,6 @@ Desenvolver um modelo de machine learning capaz de:
 5. Implementação de testes A/B para estratégias de retenção
 
 
-```	
 ## Dataset Utilizado
 O dataset utilizado neste projeto foi disponibilizado pela [Kaggle](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers/data).
 ## Autor
