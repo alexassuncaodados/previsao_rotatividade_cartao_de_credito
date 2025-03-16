@@ -3,6 +3,7 @@
 <p align="center">
     <img src="https://miro.medium.com/v2/resize:fit:800/1*3xEPKteLmsRwSUK6bfbpFQ.jpeg" alt="Alex Assunção Data Scientist" width="800">
 </p>
+
 ## Situação
 Um banco enfrenta um aumento significativo no número de cancelamentos de cartões de crédito, impactando diretamente sua receita e base de clientes. A instituição necessita identificar proativamente clientes com alto risco de cancelamento para implementar estratégias de retenção eficazes.
 
