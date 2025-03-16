@@ -15,9 +15,11 @@ Desenvolver um modelo de machine learning capaz de:
 - Implementar uma solução em produção para uso contínuo
 
 
-## 💻 Notebook
+## 💻 Notebook's
 
-[Previsão de Rotatividade (Churn) de Cartão de Crédito](https://github.com/alexassuncaodados/analise-credito/blob/main/Projeto%20An%C3%A1lise%20de%20Dados%20Python%20-%20an%C3%A1lise%20de%20cr%C3%A9dito.ipynb)
+[Análise Exploratória dos Dados](https://github.com/alexassuncaodados/previsao_rotatividade_cartao_de_credito/blob/main/01-An%C3%A1lise%20Explorat%C3%B3ria%20de%20Dados.ipynb)
+
+[Modelo de Machine Learning](https://github.com/alexassuncaodados/previsao_rotatividade_cartao_de_credito/blob/main/02-elaboracao%20do%20modelo.ipynb)
 
 ## Ações
 
