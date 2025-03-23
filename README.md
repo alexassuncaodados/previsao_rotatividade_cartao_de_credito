@@ -58,7 +58,7 @@ Desenvolver um modelo de machine learning capaz de:
 ## Resultados
 
 ### Métricas de Performance
-- Acurácia: 96.5%
+- Acurácia: 97.18%
 - ROC-AUC: 0.991
 - Precisão: 94.3%
 - Recall: 93.8%
